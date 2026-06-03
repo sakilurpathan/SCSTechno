@@ -1,5 +1,5 @@
-/assets/*.js
+*.js
   Content-Type: application/javascript
 
-/assets/*.css
+*.css
   Content-Type: text/css
